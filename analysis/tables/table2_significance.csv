@@ -1,0 +1,13 @@
+Maze,Comparison,"Median steps, Q-learning","Median steps, Dyna-Q",Effect size (negative = Dyna-Q needs fewer steps),p (Mann-Whitney U),p (Holm-adjusted),Significant (adj. p < 0.05)
+small,Q-learning vs Dyna-Q (n=5),"21,132","4,690",-1.0,<0.001,<0.001,yes
+small,Q-learning vs Dyna-Q (n=20),"21,132","2,764",-1.0,<0.001,<0.001,yes
+small,Q-learning vs Dyna-Q (n=50),"21,132","2,200",-1.0,<0.001,<0.001,yes
+large,Q-learning vs Dyna-Q (n=5),"119,900","37,730",-1.0,<0.001,<0.001,yes
+large,Q-learning vs Dyna-Q (n=20),"119,900","16,419",-1.0,<0.001,<0.001,yes
+large,Q-learning vs Dyna-Q (n=50),"119,900","13,311",-1.0,<0.001,<0.001,yes
+cliff,Q-learning vs Dyna-Q (n=5),"57,394","7,528",-0.96,<0.001,<0.001,yes
+cliff,Q-learning vs Dyna-Q (n=20),"57,394","5,516",-0.96,<0.001,<0.001,yes
+cliff,Q-learning vs Dyna-Q (n=50),"57,394","5,280",-0.95,<0.001,<0.001,yes
+change,Q-learning vs Dyna-Q (n=5),"18,036","3,302",-1.0,<0.001,<0.001,yes
+change,Q-learning vs Dyna-Q (n=20),"18,036","1,936",-1.0,<0.001,<0.001,yes
+change,Q-learning vs Dyna-Q (n=50),"18,036","1,745",-1.0,<0.001,<0.001,yes

@@ -1,0 +1,16 @@
+run_id,method,maze,seed,episode,env_steps,updates,episode_return,episode_steps,reached_goal,hazard_hits,greedy_reached_goal,greedy_path_length,greedy_return,epsilon,wall_clock_sec
+value_iteration_cliff_seed14,value_iteration,cliff,14,1,0,192,,,,,False,,-500.0,,0.0013
+value_iteration_cliff_seed14,value_iteration,cliff,14,2,0,384,,,,,False,,-500.0,,0.0024
+value_iteration_cliff_seed14,value_iteration,cliff,14,3,0,576,,,,,False,,-500.0,,0.0034
+value_iteration_cliff_seed14,value_iteration,cliff,14,4,0,768,,,,,False,,-500.0,,0.0044
+value_iteration_cliff_seed14,value_iteration,cliff,14,5,0,960,,,,,False,,-500.0,,0.0054
+value_iteration_cliff_seed14,value_iteration,cliff,14,6,0,1152,,,,,False,,-500.0,,0.0064
+value_iteration_cliff_seed14,value_iteration,cliff,14,7,0,1344,,,,,False,,-500.0,,0.0074
+value_iteration_cliff_seed14,value_iteration,cliff,14,8,0,1536,,,,,False,,-500.0,,0.0083
+value_iteration_cliff_seed14,value_iteration,cliff,14,9,0,1728,,,,,False,,-500.0,,0.0093
+value_iteration_cliff_seed14,value_iteration,cliff,14,10,0,1920,,,,,False,,-500.0,,0.0103
+value_iteration_cliff_seed14,value_iteration,cliff,14,11,0,2112,,,,,True,13,88.0,,0.0108
+value_iteration_cliff_seed14,value_iteration,cliff,14,12,0,2304,,,,,True,13,88.0,,0.0114
+value_iteration_cliff_seed14,value_iteration,cliff,14,13,0,2496,,,,,True,13,88.0,,0.0119
+value_iteration_cliff_seed14,value_iteration,cliff,14,14,0,2688,,,,,True,13,88.0,,0.0124
+value_iteration_cliff_seed14,value_iteration,cliff,14,15,0,2880,,,,,True,13,88.0,,0.013

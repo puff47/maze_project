@@ -1,0 +1,5 @@
+Method,Optimal path (22) found before change,Ever found the shortcut (4),Using shortcut at the end,Median real steps to find it (after change)
+Q-learning,30/30,1/30,1/30,"1,578"
+Dyna-Q (n=5),30/30,27/30,27/30,"1,165"
+Dyna-Q (n=20),30/30,30/30,30/30,483
+Dyna-Q (n=50),30/30,26/30,26/30,402
